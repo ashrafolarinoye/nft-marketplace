@@ -6,6 +6,8 @@ import Header from "./components/Header";
 import TopFold from "./components/TopFold";
 import InfoSection from "./components/InfoSection";
 import TrendingNfts from "./components/TrendingNfts";
+import NavBar from "./components/NavBar";
+
 
 const App = () => {
   return (
